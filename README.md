@@ -1,4 +1,5 @@
 # Smart-Parking-Detection-System-with-YOLOv8-and-OpenCV
+
 ## Overview
 
 The **Parking Detection System** is an application designed to monitor parking spaces in real-time using a YOLOv8 object detection model. This system captures video input from a camera, detects parked cars, and provides information about the availability of parking lots. The application has a user-friendly interface built using PyQt5, allowing users to start, stop, and quit the detection process easily.
